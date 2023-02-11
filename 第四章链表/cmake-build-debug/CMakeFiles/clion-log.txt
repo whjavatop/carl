@@ -1,0 +1,4 @@
+/home/wh/Downloads/clion-2022.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/wh/Downloads/clion-2022.2.2/bin/ninja/linux/ninja -G Ninja -S /home/wh/Desktop/slam_material/代码随想录/第四章链表 -B /home/wh/Desktop/slam_material/代码随想录/第四章链表/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wh/Desktop/slam_material/代码随想录/第四章链表/cmake-build-debug
